@@ -1,0 +1,4 @@
+com\dictionary\word\search\DictionaryUtil.class
+com\dictionary\word\search\WordGenerator.class
+com\dictionary\word\search\main\SearchDictionaryMain.class
+com\dictionary\word\search\Dictionary.class
